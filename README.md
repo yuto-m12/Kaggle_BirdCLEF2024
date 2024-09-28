@@ -1,7 +1,7 @@
 # BirdCLEF2024
 
 For [Kaggle BirdCLEF2024 competition](https://www.kaggle.com/competitions/birdclef-2024). <br>
-Main files are in the [models directory](https://github.com/yuto-m12/Kaggle_BirdCLEF2024/tree/main/main/models).
+The main files are in the [models directory](https://github.com/yuto-m12/Kaggle_BirdCLEF2024/tree/main/main/models).
 
 I created a summary of this competition: [Summary](https://zenn.dev/yuto_mo/articles/9808148fb5fb99)
 
